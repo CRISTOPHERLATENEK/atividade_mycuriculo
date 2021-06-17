@@ -1,7 +1,8 @@
 
 
 .borda1{
-    border: 3px solid royalblue;
+    border: 3px solid white;
+    color: white;
 }
 .src1{
     width: 240px;
@@ -16,5 +17,11 @@
 }
 .container{
     margin-left: 5% ;
-    background-color:rgb(201, 249, 255);
+    background-color:black;
+}
+body{
+    background-color: black;
+}
+.fontb{
+    color:white;
 }
